@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.1.1 - 2026-05-02
+### What's Changed
+* Add NC 32 support by @notapirate in https://github.com/nextcloud/unsplash/pull/171
+
+**Full Changelog**: https://github.com/nextcloud/unsplash/compare/v3.1.0...v3.1.1
+
 ## 3.1.0 - 2025-05-20
 ### What's Changed
 * Add NC 31 support by @cociweb in https://github.com/nextcloud/unsplash/pull/165
