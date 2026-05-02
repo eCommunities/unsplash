@@ -2,7 +2,7 @@
 .git
 .github
 .gitignore
-.l10nignore
+.l10ignore
 .nextcloudignore
 .scrutinizer.yml
 .travis.yml

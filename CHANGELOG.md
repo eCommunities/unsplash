@@ -1,5 +1,16 @@
 # Changelog
 
+## 3.2.0 - 2026-05-02
+### What's Changed
+* Add NC 33 support by @nextcloud-copilot in https://github.com/nextcloud/unsplash/pull/174
+
+### Fixed
+* Replace deprecated and internal APIs for NC 33 compatibility.
+* Use the Nextcloud HTTP client for provider requests.
+* Validate provider names in customization requests.
+
+**Full Changelog**: https://github.com/nextcloud/unsplash/compare/v3.1.1...v3.2.0
+
 ## 3.1.1 - 2026-05-02
 ### What's Changed
 * Add NC 32 support by @notapirate in https://github.com/nextcloud/unsplash/pull/171
